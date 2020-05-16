@@ -11,8 +11,8 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: sigma-seguros_
-description: _description_
+title: sigma-seguros
+description:  In addition to these settings, there is a file _data/tokens-template.yml that you'll want to customize for your site. It's named 'tokens' because that was it's original purpose, but because tokens.yml is .gitexcluded, it's a good place to store your site-specific data that you'd rather not have forked or cloned. Of course, that means you'd want to back it up elsewhere.
 owner:
   name: sigma # or company name
   url: "https://psimoesssimoes.github.io/sigma-seguros" # your URL
