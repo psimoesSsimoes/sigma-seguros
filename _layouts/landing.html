@@ -14,7 +14,14 @@
         <!-- Banner -->
           <section id="banner">
             <div class="inner">
-              <h1>{{ site.title }}</h1>
+              <h1><img {%
+if include.max %}style="width:480px" {%
+endif %}src="{%
+if include.src %}{{ include.src | prepend: site.baseurl }}{%
+else %}{{ '/images/sigma_bold.png' | prepend: site.baseurl }}{%
+endif %}" alt="{%
+if include.alt %}{{ include.alt }}{%
+endif %}" style="max-width:480px" /></h1>
               <p>{{ site.description }}</p>
               <!--
               <ul class="actions">

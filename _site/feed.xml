@@ -5,8 +5,8 @@
     <description>In addition to these settings, there is a file _data/tokens-template.yml that you'll want to customize for your site. It's named 'tokens' because that was it's original purpose, but because tokens.yml is .gitexcluded, it's a good place to store your site-specific data that you'd rather not have forked or cloned. Of course, that means you'd want to back it up elsewhere.</description>
     <link>http://localhost:4000/sigma-seguros/</link>
     <atom:link href="http://localhost:4000/sigma-seguros/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 May 2020 19:51:02 +0100</pubDate>
-    <lastBuildDate>Sat, 16 May 2020 19:51:02 +0100</lastBuildDate>
+    <pubDate>Sat, 16 May 2020 20:00:45 +0100</pubDate>
+    <lastBuildDate>Sat, 16 May 2020 20:00:45 +0100</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
