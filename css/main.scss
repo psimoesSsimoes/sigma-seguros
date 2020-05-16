@@ -118,7 +118,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		img {
 			border-radius: 3px;
-			display: block;
+			display: table-cell;
 			width: 20%;
 		}
 	}
