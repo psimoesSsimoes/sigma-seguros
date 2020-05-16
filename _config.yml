@@ -12,11 +12,7 @@
 
 # Site settings
 title: sigma-seguros
-description:  Porque a SIGMA?
-owner:
-  name: sigma # or company name
-  url: "https://psimoesssimoes.github.io/sigma-seguros" # your URL
-first_published: 2020 # if migrating another site, the year of your first publish
+description:  Aliando uma longa experiencia na actividade a um vasto conhecimento sobre as solucoes disponibilizadas no mercado segurador a SIGMA propoe-se oferecer a todos os seus parceiros um servico de qualidade superior, tanto a Clientes como Seguradoras, recorrendo a soluções tecnológicas inovadoras.
                       # Must be a 4-digit integer year (math is used on it)
 url: "https://psimoesssimoes.github.io/sigma-seguros" # the base hostname & protocol for this site
 baseurl: "/sigma-seguros" # the subpath of your site, e.g. /blog
