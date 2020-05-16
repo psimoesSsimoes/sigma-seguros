@@ -1,4 +1,4 @@
-I"Ñ<hr />
+I"%<hr />
 
 <p>This guide is provided to help you author posts. For set up and usage guidance,
 see the <a href="https://github.com/arkadianriver/arkadianriver.com">Github README</a>.</p>
@@ -12,12 +12,12 @@ These pages are located in the _posts folder of the repo. Because the posts are 
 <h2 id="contents">Contents</h2>
 
 <ul>
-  <li><a href="/topics/user-guide/about.html">About</a></li>
-  <li><a href="/topics/user-guide/features.html">Theme features</a></li>
-  <li><a href="/topics/user-guide/template.html">Front-matter</a></li>
-  <li><a href="/topics/user-guide/template2.html">Shortcut includes</a></li>
-  <li><a href="/topics/user-guide/elements.html">HTML5 UP Elements</a></li>
-  <li><a href="/topics/user-guide/icons.html">Font-Awesome icon reference</a></li>
+  <li><a href="/sigma-seguros/topics/user-guide/about.html">About</a></li>
+  <li><a href="/sigma-seguros/topics/user-guide/features.html">Theme features</a></li>
+  <li><a href="/sigma-seguros/topics/user-guide/template.html">Front-matter</a></li>
+  <li><a href="/sigma-seguros/topics/user-guide/template2.html">Shortcut includes</a></li>
+  <li><a href="/sigma-seguros/topics/user-guide/elements.html">HTML5 UP Elements</a></li>
+  <li><a href="/sigma-seguros/topics/user-guide/icons.html">Font-Awesome icon reference</a></li>
 </ul>
 
 :ET

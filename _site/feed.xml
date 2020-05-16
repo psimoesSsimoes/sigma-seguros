@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sigma-seguros_</title>
-    <description>_description_</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 May 2020 18:45:24 +0100</pubDate>
-    <lastBuildDate>Sat, 16 May 2020 18:45:24 +0100</lastBuildDate>
+    <title>sigma-seguros</title>
+    <description>In addition to these settings, there is a file _data/tokens-template.yml that you'll want to customize for your site. It's named 'tokens' because that was it's original purpose, but because tokens.yml is .gitexcluded, it's a good place to store your site-specific data that you'd rather not have forked or cloned. Of course, that means you'd want to back it up elsewhere.</description>
+    <link>http://localhost:4000/sigma-seguros/</link>
+    <atom:link href="http://localhost:4000/sigma-seguros/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 16 May 2020 18:54:07 +0100</pubDate>
+    <lastBuildDate>Sat, 16 May 2020 18:54:07 +0100</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -709,8 +709,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 28 Feb 3016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/topics/user-guide/icons.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/user-guide/icons.html</guid>
+        <link>http://localhost:4000/sigma-seguros/topics/user-guide/icons.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sigma-seguros/topics/user-guide/icons.html</guid>
         
         
         <category>topics</category>
@@ -1018,26 +1018,26 @@ print 'It took ' + i + ' iterations to sort the deck.';&lt;/code&gt;&lt;/pre&gt;
 				&lt;h5&gt;Fit&lt;/h5&gt;
 				&lt;div class=&quot;box alt&quot;&gt;
 					&lt;div class=&quot;row uniform 50%&quot;&gt;
-						&lt;div class=&quot;12u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/banner.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
-						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/pic01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
-						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
-						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
-						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
-						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
-						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/pic01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
-						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
-						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/pic01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
-						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;div class=&quot;12u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/banner.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/pic01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/pic01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/pic01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+						&lt;div class=&quot;4u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
 					&lt;/div&gt;
 				&lt;/div&gt;
 				&lt;h5&gt;Left &amp;amp; Right&lt;/h5&gt;
-				&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/pic04.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien. Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien.&lt;/p&gt;
-				&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/pic05.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius. Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat. Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui.&lt;/p&gt;
+				&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/pic04.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien. Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien.&lt;/p&gt;
+				&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/pic05.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius. Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat. Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui.&lt;/p&gt;
 			&lt;/section&gt;
 </description>
         <pubDate>Tue, 27 Feb 3016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/topics/user-guide/elements.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/user-guide/elements.html</guid>
+        <link>http://localhost:4000/sigma-seguros/topics/user-guide/elements.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sigma-seguros/topics/user-guide/elements.html</guid>
         
         
         <category>topics</category>
@@ -1110,7 +1110,7 @@ commodo commodo eu aliqua est ea consequat do aute ex amet incididunt
 consectetur enim. Consequat consectetur occaecat cillum tempor occaecat sunt
 ea laboris exercitation excepteur.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/pic05.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/pic05.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 Laborum et in in cillum quis ut mollit id sit dolor nostrud. Occaecat mollit
 in adipisicing magna nostrud sunt nulla consectetur cupidatat tempor dolore
 magna. Est ad sit eu tempor aute sunt sunt excepteur cupidatat sed irure ut et
@@ -1132,8 +1132,8 @@ to scale larger than a certain size (such as the width of the actual image),
 then you can add a max parameter with a value in pixels.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Feb 3016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/topics/user-guide/template2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/user-guide/template2.html</guid>
+        <link>http://localhost:4000/sigma-seguros/topics/user-guide/template2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sigma-seguros/topics/user-guide/template2.html</guid>
         
         
         <category>topics</category>
@@ -1273,7 +1273,7 @@ breakpoints and crop it as necessary.&lt;/p&gt;
 
 &lt;p&gt;For the featured articles on the main page, if you want an icon other than
 the heart icon, specify the &lt;code class=&quot;highlighter-rouge&quot;&gt;font-awesome&lt;/code&gt; icon identifier (just the text after &lt;code class=&quot;highlighter-rouge&quot;&gt;fa-&lt;/code&gt;).
-See the &lt;a href=&quot;/topics/user-guide/icons.html&quot;&gt;font-awesome icons&lt;/a&gt;
+See the &lt;a href=&quot;/sigma-seguros/topics/user-guide/icons.html&quot;&gt;font-awesome icons&lt;/a&gt;
 topic for a list of available icons.&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;na&quot;&gt;icon&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;industry&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
@@ -1398,7 +1398,7 @@ featured posts are also added to the main landing page.&lt;/p&gt;
   &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Sass/SCSS&lt;/span&gt;
   &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Ruby&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/skills.png&quot; alt=&quot;web page display of the preceding tags&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/sigma-seguros/images/skills.png&quot; alt=&quot;web page display of the preceding tags&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You can add the &lt;code class=&quot;highlighter-rouge&quot;&gt;featured&lt;/code&gt; tag to a work if you want it to appear on the main landing page.
 The &lt;code class=&quot;highlighter-rouge&quot;&gt;featured&lt;/code&gt; tag is excluded from the list of skills on the page and &lt;code class=&quot;highlighter-rouge&quot;&gt;works&lt;/code&gt; index.
@@ -1442,8 +1442,8 @@ scripts are included at the bottom below script includes.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 25 Feb 3016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/topics/user-guide/template.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/user-guide/template.html</guid>
+        <link>http://localhost:4000/sigma-seguros/topics/user-guide/template.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sigma-seguros/topics/user-guide/template.html</guid>
         
         
         <category>topics</category>
@@ -1458,7 +1458,7 @@ scripts are included at the bottom below script includes.&lt;/p&gt;
 
 &lt;h2 id=&quot;greeting&quot;&gt;Greeting&lt;/h2&gt;
 
-&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/feature1.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/feature1.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 The first three social links that you provide in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file
 are listed large in Spectral’s first greeting section, letting folks know
 how you most prefer to be contacted.&lt;/p&gt;
@@ -1467,12 +1467,12 @@ how you most prefer to be contacted.&lt;/p&gt;
 
 &lt;h2 id=&quot;pages&quot;&gt;Pages&lt;/h2&gt;
 
-&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/feature2a.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/feature2a.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 The site comes with some default pages with permalinks: topics, works,
 and contacts. If you create your own permalinked pages, they also show
 up in the menu.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/feature2.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/feature2.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 Unless you specify &lt;code class=&quot;highlighter-rouge&quot;&gt;nolanding&lt;/code&gt; in the page header, a link to each of your pages
 shows up in the center of the landing page along with the topics and works
 pages. Note that the topics and works pages are special, each listing all
@@ -1486,7 +1486,7 @@ the posts that belong to their own respective category.&lt;/p&gt;
 
 &lt;h2 id=&quot;works&quot;&gt;Works&lt;/h2&gt;
 
-&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/feature4.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/feature4.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 Each item in your portfolio in the works category is listed in table format
 on the works page. Each entry includes a work’s title, excerpt, date of
 completion, and demonstrated skills—items which are also on each work’s
@@ -1500,21 +1500,21 @@ post.&lt;/p&gt;
 
 &lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
 
-&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/feature3.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/feature3.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 Each post marked as &lt;code class=&quot;highlighter-rouge&quot;&gt;featured&lt;/code&gt; is displayed on the front page
 in addition to top of the topics listing.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/feature5.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/feature5.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 On the topics page, underneath the featured topics, the topics are listed
 by year.&lt;/p&gt;
 
 &lt;p&gt;At the top of the site’s content pages and posts is a navigation breadcrumb.&lt;/p&gt;
 
-&lt;!-- &lt;p&gt;&lt;img src=&quot;/images/feature6.png&quot; alt=&quot;&quot;/&gt;&lt;/p&gt; --&gt;
+&lt;!-- &lt;p&gt;&lt;img src=&quot;/sigma-seguros/images/feature6.png&quot; alt=&quot;&quot;/&gt;&lt;/p&gt; --&gt;
 
-&lt;p&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img style=&quot;max-width:265px&quot; src=&quot;/images/feature6.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img style=&quot;max-width:265px&quot; src=&quot;/sigma-seguros/images/feature6.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/feature6a.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/feature6a.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 You can group related topics together into the same category. These grouped
 topics are ordered by date as usual but are also provided with Back
 and Next links.&lt;/p&gt;
@@ -1523,20 +1523,20 @@ and Next links.&lt;/p&gt;
 
 &lt;h2 id=&quot;spectral&quot;&gt;Spectral&lt;/h2&gt;
 
-&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/feature7a.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
-&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/feature7b.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/feature7a.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/sigma-seguros/images/feature7b.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 Also included are of course the features that are provided with the awesome
 &lt;a href=&quot;https://HTML5up.net&quot;&gt;HTML5 UP&lt;/a&gt; Spectral theme itself—features
 such as text wrapping around pictures and the skel column layout formatting.
 For more about the page customization possible with the Spectral layout, see
-the &lt;a href=&quot;/topics/elements.html&quot;&gt;Elements&lt;/a&gt; page.&lt;/p&gt;
+the &lt;a href=&quot;/sigma-seguros/topics/elements.html&quot;&gt;Elements&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 </description>
         <pubDate>Thu, 22 Feb 3016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/topics/user-guide/features.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/user-guide/features.html</guid>
+        <link>http://localhost:4000/sigma-seguros/topics/user-guide/features.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sigma-seguros/topics/user-guide/features.html</guid>
         
         <category>featured</category>
         
@@ -1574,8 +1574,8 @@ little love and should someday at least provide the first two features listed
 on the next page. ❤&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Feb 3016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/topics/user-guide/about.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/user-guide/about.html</guid>
+        <link>http://localhost:4000/sigma-seguros/topics/user-guide/about.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sigma-seguros/topics/user-guide/about.html</guid>
         
         
         <category>topics</category>
@@ -1600,18 +1600,18 @@ These pages are located in the _posts folder of the repo. Because the posts are 
 &lt;h2 id=&quot;contents&quot;&gt;Contents&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/topics/user-guide/about.html&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/topics/user-guide/features.html&quot;&gt;Theme features&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/topics/user-guide/template.html&quot;&gt;Front-matter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/topics/user-guide/template2.html&quot;&gt;Shortcut includes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/topics/user-guide/elements.html&quot;&gt;HTML5 UP Elements&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/topics/user-guide/icons.html&quot;&gt;Font-Awesome icon reference&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/sigma-seguros/topics/user-guide/about.html&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/sigma-seguros/topics/user-guide/features.html&quot;&gt;Theme features&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/sigma-seguros/topics/user-guide/template.html&quot;&gt;Front-matter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/sigma-seguros/topics/user-guide/template2.html&quot;&gt;Shortcut includes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/sigma-seguros/topics/user-guide/elements.html&quot;&gt;HTML5 UP Elements&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/sigma-seguros/topics/user-guide/icons.html&quot;&gt;Font-Awesome icon reference&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
         <pubDate>Tue, 20 Feb 3016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/topics/user-guide/</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/user-guide/</guid>
+        <link>http://localhost:4000/sigma-seguros/topics/user-guide/</link>
+        <guid isPermaLink="true">http://localhost:4000/sigma-seguros/topics/user-guide/</guid>
         
         <category>featured</category>
         
@@ -1633,8 +1633,8 @@ These pages are located in the _posts folder of the repo. Because the posts are 
 	&lt;p&gt;Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui, at vestibulum sit amet, auctor bibendum neque.&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Aug 3015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/topics/generic.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/generic.html</guid>
+        <link>http://localhost:4000/sigma-seguros/topics/generic.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sigma-seguros/topics/generic.html</guid>
         
         
         <category>topics</category>
@@ -1646,8 +1646,8 @@ These pages are located in the _posts folder of the repo. Because the posts are 
         <description>&lt;p&gt;This about sums it all up.&lt;/p&gt;
 </description>
         <pubDate>Mon, 22 Sep 3006 00:02:00 +0100</pubDate>
-        <link>http://localhost:4000/topics/my%20topic%20group/subcattest-topic3.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/my%20topic%20group/subcattest-topic3.html</guid>
+        <link>http://localhost:4000/sigma-seguros/topics/my%20topic%20group/subcattest-topic3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sigma-seguros/topics/my%20topic%20group/subcattest-topic3.html</guid>
         
         
         <category>topics</category>
@@ -1661,8 +1661,8 @@ These pages are located in the _posts folder of the repo. Because the posts are 
         <description>&lt;p&gt;Yada yada and more yada.&lt;/p&gt;
 </description>
         <pubDate>Mon, 22 Sep 3006 00:01:00 +0100</pubDate>
-        <link>http://localhost:4000/topics/my%20topic%20group/subcattest-topic2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/topics/my%20topic%20group/subcattest-topic2.html</guid>
+        <link>http://localhost:4000/sigma-seguros/topics/my%20topic%20group/subcattest-topic2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sigma-seguros/topics/my%20topic%20group/subcattest-topic2.html</guid>
         
         
         <category>topics</category>

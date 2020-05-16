@@ -1,4 +1,4 @@
-I"WD<hr />
+I"sD<hr />
 
 <p>You can control many things about each post with a few entries in its front matter.
 The entries provide layout controls and the ability to combine many posts in a series
@@ -127,7 +127,7 @@ breakpoints and crop it as necessary.</p>
 
 <p>For the featured articles on the main page, if you want an icon other than
 the heart icon, specify the <code class="highlighter-rouge">font-awesome</code> icon identifier (just the text after <code class="highlighter-rouge">fa-</code>).
-See the <a href="/topics/user-guide/icons.html">font-awesome icons</a>
+See the <a href="/sigma-seguros/topics/user-guide/icons.html">font-awesome icons</a>
 topic for a list of available icons.</p>
 
 <figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="na">icon</span><span class="pi">:</span> <span class="s">industry</span></code></pre></figure>
@@ -252,7 +252,7 @@ featured posts are also added to the main landing page.</p>
   <span class="pi">-</span> <span class="s">Sass/SCSS</span>
   <span class="pi">-</span> <span class="s">Ruby</span></code></pre></figure>
 
-<p><img src="/images/skills.png" alt="web page display of the preceding tags" /></p>
+<p><img src="/sigma-seguros/images/skills.png" alt="web page display of the preceding tags" /></p>
 
 <p>You can add the <code class="highlighter-rouge">featured</code> tag to a work if you want it to appear on the main landing page.
 The <code class="highlighter-rouge">featured</code> tag is excluded from the list of skills on the page and <code class="highlighter-rouge">works</code> index.
