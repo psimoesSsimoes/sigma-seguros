@@ -36,5 +36,3 @@ body.is-menu-visible #menu { display: block; }
 #main > header { -ms-behavior: url("js/ie/backgroundsize.min.htc"); }
 
 #main > header:before { display: none; }
-
-/*# sourceMappingURL=ie8.css.map */
