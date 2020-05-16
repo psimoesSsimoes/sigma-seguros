@@ -1059,7 +1059,7 @@ body.is-menu-visible #menu { -moz-transform: translateX(0); -webkit-transform: t
 
 #banner h1 { -moz-transform: scale(1); -webkit-transform: scale(1); -ms-transform: scale(1); transform: scale(1); -moz-transition: -moz-transform 0.2s ease, opacity 0.2s ease; -webkit-transition: -webkit-transform 0.2s ease, opacity 0.2s ease; -ms-transition: -ms-transform 0.2s ease, opacity 0.2s ease; transition: transform 0.2s ease, opacity 0.2s ease; display: inline-block; font-size: 1.75em; line-height: 1.75em; opacity: 1; padding: 0.35em 1em; position: relative; z-index: 1; text-transform: none; }
 
-#banner h1 img { border-radius: 3px; vertical-align: middle; width: 65%; margin: 0 0 1em 0; padding: 0 1.5em; }
+#banner h1 img { vertical-align: middle; width: 65%; }
 
 #banner h1:before, #banner h1:after { -moz-transition: width 0.85s ease; -webkit-transition: width 0.85s ease; -ms-transition: width 0.85s ease; transition: width 0.85s ease; -moz-transition-delay: 0; -webkit-transition-delay: 0; -ms-transition-delay: 0; transition-delay: 0; background: #fff; content: ''; display: block; height: 2px; position: absolute; width: 100%; }
 
