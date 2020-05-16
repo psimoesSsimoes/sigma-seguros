@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sigma-seguros</title>
-    <description>Aliando uma longa experiencia na actividade a um vasto conhecimento sobre as solucoes disponibilizadas no mercado segurador a SIGMA propoe-se oferecer a todos os seus parceiros um servico de qualidade superior, tanto a Clientes como Seguradoras, recorrendo a soluções tecnológicas inovadoras.</description>
+    <description>Sigma Seguros.</description>
     <link>http://localhost:4000/sigma-seguros/</link>
     <atom:link href="http://localhost:4000/sigma-seguros/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 May 2020 20:24:32 +0100</pubDate>
-    <lastBuildDate>Sat, 16 May 2020 20:24:32 +0100</lastBuildDate>
+    <pubDate>Sat, 16 May 2020 20:51:59 +0100</pubDate>
+    <lastBuildDate>Sat, 16 May 2020 20:51:59 +0100</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>

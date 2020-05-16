@@ -64,6 +64,15 @@ endif %}" style="max-width:480px" /></h1>
           </section>{%
           endif %}
 
+          <section id="group" class="wrapper alt style2">
+            <div class="inner">
+              <header class="major">
+                <h2>{% if site.group.title %}{{ site.group.title }}{% else %}{{ site.title }}{% endif %}</h2>
+                <p>{% if site.group.text %}{{ site.group.text | markdownify }}{% else %}{{ site.description | markdownify }}{% endif %}</p>
+              </header>
+            </div>
+          </section>
+
         <!-- Two -->
           <section id="landing_pages" class="wrapper alt style2">{%
             assign sorted_pages = site.pages | sort:"id" %}{%

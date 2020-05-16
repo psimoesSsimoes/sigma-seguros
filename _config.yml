@@ -26,6 +26,11 @@ lang: en-us # used in HTML lang attributes
 greeting:
   title: Porque a SIGMA?
   text: Aliando uma longa experiencia na actividade a um vasto conhecimento sobre as solucoes disponibilizadas no mercado segurador a SIGMA propoe-se oferecer a todos os seus parceiros um servico de qualidade superior, tanto a Clientes como Seguradoras, recorrendo a soluções tecnológicas inovadoras.
+
+group:
+  title: Em que é que a SIGMA é diferente?
+  text: O contexto actual da oferta de seguros no mercado portugues tem seguid uma linha indeferenciadore, ou seja, promomove a aquisição de protecção contra riscos múltiplos sem atender às necessidades específicas de quem procura ou necessita do serviço. O resultad é, em muitos casos, a desaquação entree as reais necessidades dos clientes e o contrato subscrito, bem como o desperdício de dinheiro que resulta de se deter algo desaquado.\nA Sigma, como entidade especializada na gestão de riscos, inverte a questao e coloca-se permanentemente na posição dos seus clientes, questionando-se sobre as melhores estratégias para os mesmos.\nPara a Sigma, não existem produtos,coberturas,garantias, existem soluções efectivas, exclusivas e com criação de valor para os seus clientes.
+
 # - displayed at the bottom
 closing-head: _Your closing_
 closing-para: _Your detailed closing_
