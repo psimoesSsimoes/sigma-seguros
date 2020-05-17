@@ -31,6 +31,7 @@ group:
   title: Em que é que a SIGMA é diferente?
   text: O contexto actual da oferta de seguros no mercado portugues tem seguid uma linha indeferenciadore, ou seja, promomove a aquisição de protecção contra riscos múltiplos sem atender às necessidades específicas de quem procura ou necessita do serviço. O resultad é, em muitos casos, a desaquação entree as reais necessidades dos clientes e o contrato subscrito, bem como o desperdício de dinheiro que resulta de se deter algo desaquado.\nA Sigma, como entidade especializada na gestão de riscos, inverte a questao e coloca-se permanentemente na posição dos seus clientes, questionando-se sobre as melhores estratégias para os mesmos.\nPara a Sigma, não existem produtos,coberturas,garantias, existem soluções efectivas, exclusivas e com criação de valor para os seus clientes.
 
+
 # - displayed at the bottom
 closing-head: _Your closing_
 closing-para: _Your detailed closing_
@@ -78,7 +79,7 @@ social:
   #amazon:
 
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: Contactos
 
 # if you use this repo's `ruby compose.rb` script to initiate new posts, put the
 # command to invoke your editor here. (I didn't spend time dealing with spaces
@@ -103,6 +104,9 @@ future: false
 # If you have custom extensions, specifically includes/_my/custom.scss,
 # set this to yes
 custom_extensions: no
+
+categories:
+  - my great vacation
 
 # Build settings
 permalink: /:categories/:title.html

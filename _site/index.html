@@ -84,7 +84,7 @@
             </div>
           </section>
 
-          <section id="group" class="wrapper alt style2">
+          <section id="group" class="wrapper style1 special">
             <div class="inner">
 	      <ul class="icons major"><li><a><span></span></a></li><li><a><span> </span></a></li></ul>
               <header class="major">
@@ -134,15 +134,15 @@
           <section id="landing_features" class="wrapper style3 special">
             <div class="inner">
               <header class="major">
-                <h2>Featured topics</h2>
+                <h2>Contactos</h2>
                 <!-- <p>Blog posts with decent content</p> -->
               </header>
               <ul class="features">
                 <li class="icon fa-heart-o"><!-- featured:1 -->
                   <a href="/sigma-seguros/topics/user-guide/features.html">
                   <div class="container">
-                  <h3>Theme features</h3>
-                  <p><br />How to use this theme</p>
+                  <h3>Onde estamos?</h3>
+                  <p><br />Rua Gonçalves Mendes da Maia, Lt 14 - R/C Dto 2780-323 Lisboa</p>
                   </div>
                   </a>
                 </li>
@@ -158,6 +158,33 @@
             </div>
           </section>
 
+        <!-- Contactos -->
+          <section id="landing_features" class="wrapper style3 special">
+            <div class="inner">
+              <header class="major">
+                <h2>Contactos</h2>
+                <!-- <p>Blog posts with decent content</p> -->
+              </header>
+              <ul class="features">
+                <li class="icon fa-heart-o"><!-- featured:3 -->
+                  <a href="/sigma-seguros/topics/user-guide/features.html">
+                  <div class="container">
+                  <h3>Onde estamos?</h3>
+                  <p><br />Rua Gonçalves Mendes da Maia, Lt 14 - R/C Dto 2780-323 Lisboa</p>
+                  </div>
+                  </a>
+                </li>
+                <li class="icon fa-book"><!-- featured:4 -->
+                  <a href="/sigma-seguros/topics/user-guide/">
+                  <div class="container">
+                  <h3>User Guide</h3>
+                  <p><br />How to use this theme</p>
+                  </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </section>
         <!-- CTA -->
           <section id="cta" class="wrapper style4">
             <div class="inner">
@@ -171,6 +198,42 @@
               </ul>
             </div>
           </section>
+<html>
+  <head>
+    <style>
+       /* Set the size of the div element that contains the map */
+      #map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
+    </style>
+  </head>
+  <body>
+    <h3>My Google Maps Demo</h3>
+    <!--The div element for the map -->
+    <div id="map"></div>
+    <script>
+// Initialize and add the map
+function initMap() {
+  // The location of Uluru
+  var uluru = {lat: -25.344, lng: 131.036};
+  // The map, centered at Uluru
+  var map = new google.maps.Map(
+      document.getElementById('map'), {zoom: 4, center: uluru});
+  // The marker, positioned at Uluru
+  var marker = new google.maps.Marker({position: uluru, map: map});
+}
+    </script>
+    <!--Load the API from the specified URL
+    * The async attribute allows the browser to render the page while the API loads
+    * The key parameter will contain your own API key (which is not needed for this tutorial)
+    * The callback parameter executes the initMap() function
+    -->
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+    </script>
+  </body>
+</html>
 
       <!-- Footer -->
 <footer id="footer">

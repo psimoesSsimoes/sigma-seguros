@@ -2359,6 +2359,97 @@ $baseurl: '{{ site.baseurl }}/images';
   	margin-bottom:16px;
   }
 
+
+/* Fonts
+-------------------------------*/
+
+/* Font family */
+$fontFamilyPrimary: 'Open Sans', sans-serif;
+$fontFamilySecondary: 'Nunito', sans-serif;
+
+/* Font weight */
+$fontWeightRegular: 400;
+$fontWeightSemi: 600;
+$fontWeightBold: 700;
+
+/* Colors
+-------------------------------*/
+
+/* Descriptive colors */
+$white: #fff;
+$black: #000;
+$grey: #333;
+$greyLight: #555;
+$gallery: #eee;
+$alto: #ddd;
+$mercury: #e9e9e9;
+$alabaster: #f7f7f7;
+$pelorous: #3dadb2;
+
+/* Color usage */
+$colorPrimary: $pelorous;
+$colorHeading: $grey;
+$colorBase: $greyLight;
+$colorBg: $alabaster;
+$colorBorder: $alto;
+
+/* PLACEHOLDERS
+-------------------------------------------------*/
+
+/* Clearfix
+-------------------------------*/
+%clearfix {
+    &:after {
+        display: block;
+        content: '';
+        clear: both;
+    }
+}
+
+/* Form fields
+-------------------------------*/
+%form-fields {
+    display: block;
+    width: 100%;
+    padding: 5px 10px;
+    border: solid 2px #ddd;
+    border-radius: 0;
+    box-shadow: none;
+    &:focus {
+        outline: 0;
+        border-color: $colorPrimary;
+        transition: all 0.3s ease;
+        box-shadow: none;
+    }
+}
+
+/* Space
+-------------------------------*/
+%space {
+    padding: 20px*3 0;
+}
+
+/* Lists
+-------------------------------*/
+%no-bullet {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+/* Alignment
+-------------------------------*/
+%align-left {
+    text-align: left;
+}
+
+%align-right {
+    text-align: right;
+}
+
+%align-center {
+    text-align: center;
+}
 /* Video embeds
      http://embedresponsively.com
      https://github.com/jeffehobbs/embedresponsively
